@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreasyPerimetrosDeFiguras/AreasyPerimetrosDeFiguras.iml" filepath="$PROJECT_DIR$/AreasyPerimetrosDeFiguras/AreasyPerimetrosDeFiguras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraIVA/CalculadoraIVA.iml" filepath="$PROJECT_DIR$/CalculadoraIVA/CalculadoraIVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraSalarioEmpleado/CalculadoraSalarioEmpleado.iml" filepath="$PROJECT_DIR$/CalculadoraSalarioEmpleado/CalculadoraSalarioEmpleado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carro/Carro.iml" filepath="$PROJECT_DIR$/Carro/Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/S4-Taller de clases-objetos y métodos.iml" filepath="$PROJECT_DIR$/.idea/S4-Taller de clases-objetos y métodos.iml" />
+    </modules>
+  </component>
+</project>
